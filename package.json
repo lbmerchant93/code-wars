@@ -1,0 +1,12 @@
+{
+  "name": "code-wars",
+  "version": "1.0.0",
+  "description": "Code Wars challenges I have completed.",
+  "scripts": {
+    "test": "mocha"
+  },
+  "dependencies": {
+    "chai": "^4.3.7",
+    "mocha": "^10.2.0"
+  }
+}
